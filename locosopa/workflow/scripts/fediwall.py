@@ -45,6 +45,7 @@ def main():
         "hideBoosts": False,
         "hideReplies": False,
         "hideSensitive": False,
+        "hideBots": False,
     }
 
     # Download fediwall with checksum verification
