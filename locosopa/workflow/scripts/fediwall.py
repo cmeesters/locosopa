@@ -42,6 +42,7 @@ def main():
         ],
         "theme": "auto",
         "interval": 30,
+        "limit": 40,
         "hideBoosts": False,
         "hideReplies": False,
         "hideSensitive": False,
