@@ -37,7 +37,6 @@ def main():
             "mastodon.social",
             "fosstodon.org",
             "fediscience.org",
-            "scholar.social",
             "genomic.social",
         ],
         "theme": "auto",
